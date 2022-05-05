@@ -6,6 +6,8 @@ step 2: npm install
 
 step 3: npm start
 
-step 4: Finally, open your browser and go to the following url:
+step 4: cd server
+
+step 5 Finally, open your browser and go to the following url:
 
 http://localhost:5000
